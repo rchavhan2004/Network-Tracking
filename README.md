@@ -60,7 +60,11 @@ The **Network Tracking Tool** is a robust Python-based project aimed at tracking
 <p style="text-align: center; font-style: italic;">Your network’s security, now on the map! 🌍</p>
 
 ## ✨ Screenshots
-![Screenshot 2025-01-02 203516](https://github.com/user-attachments/assets/2383f512-ed64-4b93-90f0-746859aa8ddf)
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/2383f512-ed64-4b93-90f0-746859aa8ddf" alt="Real-Time Monitoring" width="80%">
+</p>
+
 ---
 
 ## 📚 Learning Objectives
@@ -85,6 +89,8 @@ By working on this project, you will:
   <strong>📡 Track. Analyze. Secure. 🔒</strong>
 </p>
 
+
+
 <p align="center">
-  <img src="https://cdn-icons-png.flaticon.com/512/4862/4862973.png" alt="Secure Cyber Icon" width="80">
+  <img src="https://github.com/user-attachments/assets/c90ee001-ca22-4006-9d85-d70a342c9f79" alt="Secure Cyber Icon" width="80">
 </p>
