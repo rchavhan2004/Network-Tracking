@@ -44,6 +44,21 @@ The **Network Tracking Tool** is a robust Python-based project aimed at tracking
 
 ---
 
+<h2 style="text-align: center; color: #4CAF50;">🚀 Project Workflow: </h2>
+
+<p style="font-size: 18px; font-family: 'Arial', sans-serif;">Follow these steps to trace network traffic and visualize locations securely:</p>
+
+<ol style="line-height: 1.8;">
+  <li><strong style="color: #2196F3;">🔧 Setup</strong> - Install Wireshark and prepare it for capturing network packets on your device.</li>
+  <li><strong style="color: #2196F3;">🌐 Capture Network Traffic</strong> - Use Wireshark to monitor live network traffic on your selected interface.</li>
+  <li><strong style="color: #2196F3;">📊 Packet Analysis</strong> - Filter and decode packets to retrieve useful information, such as IP addresses and communication protocols.</li>
+  <li><strong style="color: #2196F3;">🌍 Google Maps Integration</strong> - Use Python scripts to connect with the Google Maps API and prepare the data for mapping.</li>
+  <li><strong style="color: #2196F3;">🗺️ Visualize Data</strong> - Plot geographic locations based on IP addresses on a dynamic Google Map.</li>
+  <li><strong style="color: #2196F3;">🔍 Security Monitoring</strong> - Analyze the network traffic for signs of unusual behavior or security threats.</li>
+</ol>
+
+<p style="text-align: center; font-style: italic;">Your network’s security, now on the map! 🌍</p>
+
 ## ✨ Screenshots
 ![Screenshot 2025-01-02 203516](https://github.com/user-attachments/assets/2383f512-ed64-4b93-90f0-746859aa8ddf)
 ---
@@ -71,5 +86,5 @@ By working on this project, you will:
 </p>
 
 <p align="center">
-  <img src="https://cdn-icons-png.flaticon.com/512/1601/1601244.png" alt="Tracking Icon" width="80">
+  <img src="https://cdn-icons-png.flaticon.com/512/4862/4862973.png" alt="Secure Cyber Icon" width="80">
 </p>
